@@ -1,5 +1,7 @@
 # Draw Texture Object
 
+https://github.com/user-attachments/assets/b67bf68f-5e29-48cb-a288-2db5d0598ac4
+
 A simple Unity script that lets you paint directly on a texture mapped to an object in the scene.
 
 ## Overview
